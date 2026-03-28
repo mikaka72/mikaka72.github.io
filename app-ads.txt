@@ -3,4 +3,4 @@ unity.com, 65f34f34-a75c-4df6-b677-35111d220e7c, DIRECT, aecae1b7a7c42a6e
 chartboost.com, 693fd956f5131a9d6e2c77d6, DIRECT
 inmobi.com, fdc7aa52b8aa47a18306efda24fb6261, DIRECT, 83e75a7ae333ca9d
 vungle.com, 69c685f0379a70f209cf72cd, DIRECT, c107d686becd2d77
-facebook.com, 3046008998942839, DIRECT, c3e20eee3f780d68
+facebook.com, 2008778986727787, DIRECT, c3e20eee3f780d68
